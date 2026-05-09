@@ -21,4 +21,12 @@
 * Improving range.
 * Making our own motherboard and not use an ESP32.
 
+## Known issues.
+
+* Speaker is too quiet since we don't have a PWM or an amplipier.
+* Microphone is analog and we needed digital.
+* Our ESP32 does not have DAC and we needed that.
+
+<h4>We are still working on the issues so if you have any you can contact us at <a>mailto:support@wificommunicator.online</a></h4>
+
 ###### Made proudly in Romania.
