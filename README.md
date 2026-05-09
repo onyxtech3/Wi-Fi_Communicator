@@ -27,6 +27,6 @@
 * Microphone is analog and we needed digital.
 * Our ESP32 does not have DAC and we needed that.
 
-<h4>We are still working on the issues so if you have any you can contact us at <a>mailto:support@wificommunicator.online</a></h4>
+#### We are still working on the issues so if you have any you can contact us at wifi-communicator@onyx-tech.eu
 
 ###### Made proudly in Romania.
