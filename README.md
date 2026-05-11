@@ -1,4 +1,4 @@
-# Wi-Fi_Communicator
+# ESP32_Communicator
 
 ## About this project
 
@@ -8,9 +8,7 @@
 
 ## How does it work?
 
-* It works by using 2 ESP32 S3 Dev Kits.
-* One ESP makes a Wi-Fi network and the other one connects to the first ESP.
-* Since it uses a private Wi-Fi connection it's secure and no one can listen to your conversation.
+* It works by using the ESP-NOW protocol with 2 ESP32.
 
 ## Possible future improvments:
 
@@ -21,12 +19,17 @@
 * Improving range.
 * Making our own motherboard and not use an ESP32.
 
+## List of parts:
+
+* ESP32 S3 Dev Kit
+* Breadboard
+* MAX 4466 Microphone
+* 8 ohm 0.5 W speaker
+* MAX98357 I2S amplifier
+* 9V battery (we recommend using a rechargeble battery)
+
 ## Known issues.
 
-* Speaker is too quiet since we don't have a PWM or an amplipier.
-* Microphone is analog and we needed digital.
-* Our ESP32 does not have DAC and we needed that.
-
-#### We are still working on the issues so if you have any you can contact us at wifi-communicator@onyx-tech.eu
+There are no known issues untill now.
 
 ###### Made proudly in Romania.
