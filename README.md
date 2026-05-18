@@ -1,5 +1,7 @@
 # ESP32_Communicator
 
+## THIS PROJECT HAS BEEN ABANDONED AND WILL NOT GET UPDATED
+
 ## About this project
 
 * Me and my friend made it for fun at first, but then we heard about a science and robotics competitions and we got in there with our project that we were about to make.
